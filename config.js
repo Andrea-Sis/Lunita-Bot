@@ -24,13 +24,13 @@ global.prems = []
    
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = `⟢◦ 𝐍𝐅 𝐁𝐎𝐓`
-global.author = '{\n "bot": {\n   "name": "⟢◦ 𝐍𝐅 𝐁𝐎𝐓",\n     "author": "Nao",\n   "status_bot": "active"\n }\n}'
-global.wait = '⟢◦ 𝐍𝐅 𝐁𝐎𝐓'
-global.botname = '⟢◦ 𝐍𝐅 𝐁𝐎𝐓'
-global.textbot = `Powered By Nao`
+global.packname = `🔱𝕷𝖚𝖓𝖎𝖙𝖆 𝕭𝖔𝖙 🔱`
+global.author = '{\n "bot": {\n   "name": "🔱𝕷𝖚𝖓𝖎𝖙𝖆 𝕭𝖔𝖙 🔱",\n     "author": "Jana",\n   "status_bot": "active"\n }\n}'
+global.wait = '🔱𝕷𝖚𝖓𝖎𝖙𝖆 𝕭𝖔𝖙 🔱'
+global.botname = '🔱𝕷𝖚𝖓𝖎𝖙𝖆 𝕭𝖔𝖙 🔱'
+global.textbot = `Powered By Jana`
 global.listo = 'Completado ✯'
-global.namechannel = '⟢ 𝐍𝐅 𝐁𝐎𝐓'
+global.namechannel = '🔱𝕷𝖚𝖓𝖎𝖙𝖆 𝕭𝖔𝖙 🔱'
 global.baileys = '@whiskeysockets/baileys'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -40,8 +40,8 @@ global.miniurl = fs.readFileSync('./storage/img/siskedurl.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.group = 'https://chat.whatsapp.com/DCivc8qWd3w0s6ZfApZWuP'
-global.canal = 'https://whatsapp.com/channel/0029VajsWhdGZNCtrIv2nf3G'
+global.group = 'https://chat.whatsapp.com/Kum8zS1Fv4Z4KfExgBoxdQ'
+global.canal = 'https://whatsapp.com/channel/0029VasT86kE50Ue49C4N72D'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
