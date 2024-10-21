@@ -7,7 +7,7 @@ let img = catalogo
     contextInfo: {
     	isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: "120363299667225383@newsletter",
+      newsletterJid: "120363330435459133@newsletter",
       serverMessageId: 100,
       newsletterName: '🔱𝕷𝖚𝖓𝖎𝖙𝖆 𝕭𝖔𝖙 🔱',
     },
